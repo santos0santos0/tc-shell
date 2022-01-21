@@ -1,0 +1,3 @@
+# Bootcamp TechCamps
+
+- Script `alias`
