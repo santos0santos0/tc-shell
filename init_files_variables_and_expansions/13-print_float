@@ -1,0 +1,2 @@
+#!/bin/bash
+export NUM=98 | printf '%.2f\n' $(echo $NUM)
